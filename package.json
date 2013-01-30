@@ -1,12 +1,12 @@
 {
-  "author": "Sam Gentle <sam@samgentle.com>",
-  "name": "phantom",
+  "author": "Amir Raminfar <findamir@gmail.com>",
+  "name": "phantom-v2",
   "description": "PhantomJS wrapper for Node",
-  "homepage": "https://github.com/sgentle/phantomjs-node",
-  "version": "0.3.5",
+  "homepage": "https://github.com/amir20/phantomjs-node-v2",
+  "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "git://github.com/sgentle/phantomjs-node.git"
+    "url": "git@github.com:amir20/phantomjs-node-v2.git"
   },
   "main": "phantom.js",
   "engines": {
