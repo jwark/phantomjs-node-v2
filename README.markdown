@@ -12,12 +12,12 @@ If that works, so will phantomjs-node. It's only been tested with PhantomJS 1.3,
 
 Install it like this:
 
-    npm install phantom
+    npm install phantom-v2
 
 Use it like this in Coffeescript:
 
 ```coffeescript
-phantom = require 'phantom'
+phantom = require 'phantom-v2'
 
 phantom.create (ph) ->
   ph.createPage (page) ->
